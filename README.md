@@ -78,12 +78,14 @@ Time window fits constraints
 
 ##🧰 drosera.toml Example
 
-```name = "flash_loan_spike_trap"
+```
+name = "flash_loan_spike_trap"
 description = "Detects transient flash loan spikes in monitored balances"
 contract = "src/FlashLoanSpikeTrap.sol:FlashLoanSpikeTrap"
 
 [cooldown]
-blocks = 10```
+blocks = 10
+```
 
 
 ---
