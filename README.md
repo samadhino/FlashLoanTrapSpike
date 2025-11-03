@@ -76,7 +76,10 @@ Time window fits constraints
 
 ---
 
+
+
 ##🧰 drosera.toml Example
+
 
 ```
 name = "flash_loan_spike_trap"
@@ -90,11 +93,13 @@ blocks = 10
 
 ---
 
+
 ##🪄 Setup Instructions
+
 
 1. Clone this repo
 
-```git clone https://github.com/<your-username>/FlashLoanSpikeTrap.git
+```git clone https://github.com/samadhino/FlashLoanSpikeTrap.git
 cd FlashLoanSpikeTrap```
 
 
@@ -112,6 +117,7 @@ cd FlashLoanSpikeTrap```
 
 ---
 
+
 ##🧠 Author
 
 
@@ -120,4 +126,4 @@ cd FlashLoanSpikeTrap```
 🌐 Project: [Drosera Network](https://drosera.io)
 
 
----
+
