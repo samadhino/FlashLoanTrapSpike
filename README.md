@@ -38,11 +38,13 @@ This trap can be used to **automate on-chain responses** or **alert systems** in
 
 ## 📜 Example Code Snippet
 
-```solidity
+```
+solidity
 function collect() external view override returns (bytes memory) {
     // Mock response for dryrun testing (no external calls)
     return abi.encode(uint256(1e18), block.number);
-}```
+}
+```
 
 This function collects a snapshot of the token balance and block number, used in comparisons by `shouldRespond()`.
 
