@@ -51,7 +51,7 @@ This function collects a snapshot of the token balance and block number, used in
 
 ---
 
-##🧮 Trap Behavior (Simplified)
+## 🧮 Trap Behavior (Simplified)
 
 1. Collect balance samples from monitored address.
 
@@ -78,7 +78,7 @@ Time window fits constraints
 
 
 
-##🧰 drosera.toml Example
+## 🧰 drosera.toml Example
 
 
 ```
@@ -94,7 +94,7 @@ blocks = 10
 ---
 
 
-##🪄 Setup Instructions
+## 🪄 Setup Instructions
 
 
 1. Clone this repo
@@ -124,7 +124,7 @@ drosera dryrun
 ---
 
 
-##🧠 Author
+## 🧠 Author
 
 
 💬 Twitter: [Samadfrmdtrench](https://x.com/Biggdawgg06)
