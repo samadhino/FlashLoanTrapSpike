@@ -1,4 +1,4 @@
-k# ⚡ FlashLoanSpikeTrap
+# ⚡ FlashLoanSpikeTrap
 
 A **Drosera-compatible trap** designed to detect **suspicious flash loan activity** on-chain by monitoring rapid token balance spikes followed by immediate drops — a common pattern in flash loan-based attacks.
 
