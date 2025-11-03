@@ -99,18 +99,24 @@ blocks = 10
 
 1. Clone this repo
 
-```git clone https://github.com/samadhino/FlashLoanSpikeTrap.git
-cd FlashLoanSpikeTrap```
+```
+git clone https://github.com/samadhino/FlashLoanSpikeTrap.git
+cd FlashLoanSpikeTrap
+```
 
 
 2. Build with Foundry
 
-```forge build```
+```
+forge build
+```
 
 
 3. Dry run with Drosera
 
-```drosera dryrun```
+```
+drosera dryrun
+```
 
 
 
